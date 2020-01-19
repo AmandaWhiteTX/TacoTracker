@@ -22,7 +22,7 @@ app.engine("handlebars", exphbs({ defaultLayout: "main" }));
 app.set("view engine", "handlebars");
 
 //import routes and give the server access to them
-var routes = require("./controllers/tacossController.js");
+var routes = require("./controllers/tacosController.js");
 
 app.use(routes);
 
