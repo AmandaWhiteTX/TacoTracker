@@ -82,7 +82,7 @@ As you can see from the image there are 3 columns: Ready to Eat the Taco, Devour
 
 ## Deployment
 
-This application is delployed at [https://"".herokuapp.com/](https://"".herokuapp.com/)
+This application is delployed at https://mandystacotracker.herokuapp.com/ | https://git.heroku.com/mandystacotracker.git
 
 
 ## Author
