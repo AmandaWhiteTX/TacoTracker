@@ -60,7 +60,7 @@ As you can see from the image there are 3 columns: Ready to Eat the Taco, Devour
 
 * Here is MySQL before I added the taco:
 
-	![ScreenShot](/img/beforeaddsql.PNG)
+	![ScreenShot of before I add the new taco:](/img/beforeaddsql.PNG)
 	![Here is MySQL before I added the taco:](./public/assets/img/beforeaddsql.PNG)
 
 * Here I am adding Tofu Tacos:
