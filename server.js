@@ -29,3 +29,11 @@ app.use(routes);
 app.listen(PORT, function() {
   console.log("App now listening at localhost:" + PORT);
 });
+
+// // Timeout
+app.use(timeout(15000));
+app.use(haltOnTimedout);
+
+function haltOnTimedout(req, res, next) {
+    if (!req.timedout) next();
+}
