@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/2crazyflowers/TACOTRACKER.git"
+    "url": "git+https://github.com/AmandaWhiteTX/TACOTRACKER.git"
   },
   "author": "Sara Bracewell",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/2crazyflowers/TACOTRACKER/issues"
+    "url": "https://github.com/AmandaWhiteTX/TACOTRACKER/issues"
   },
-  "homepage": "https://github.com/2crazyflowers/TACOTRACKER#readme",
+  "homepage": "https://github.com/AmandaWhiteTX/TACOTRACKER#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "cli": "^1.0.1",

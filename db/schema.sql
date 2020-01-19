@@ -8,6 +8,6 @@ CREATE TABLE tacos
 	id INT AUTO_INCREMENT NOT NULL,
 	taco_name VARCHAR(255) NOT NULL,
 	devoured BOOLEAN DEFAULT false,
-	createdAt TIMESTAMP,
+	createdAt DATETIME,
 	PRIMARY KEY (id)
 );

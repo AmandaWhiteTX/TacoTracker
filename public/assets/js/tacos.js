@@ -28,7 +28,8 @@ $(function() {
 
     var newTaco = {
       taco_name: $("#bu").val().trim(),
-      devoured: 0
+      devoured: 0,
+      createdAt: DATETIME
     };
 
     // Send the POST request.
