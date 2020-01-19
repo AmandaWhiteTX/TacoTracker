@@ -30,7 +30,7 @@ This app is all about eating tacos, yes, that's right! You'll create a taco logg
 
 1. Type `node server.js` end hit enter
 
-![Image of Command Line](./public/assets/img/commandline.PNG)
+![Image of Command Line](./public/assets/img/nodeserverjs.PNG)
 
 1. Go to your browser and open a new tab and type `localhost:3000` then hit enter
 
@@ -42,16 +42,11 @@ As you can see from the image there are 3 columns: Ready to Eat the Taco, Devour
 
 **Taco Tracker Option**
 
-* In the `Ready to Eat Tacos` column, if you hit the `Devour It !` button it will change the devour status to true in MySQL, which will place the taco in the Devoured Tacoss column. This taco will still be listed in MySQL. For example, if you choose to devour the Chicken Fajita Taco, this is what it looks like in MySQL. Note that the Devour number is a 0 which equals true:
+* In the `Tacos to Eat` column, if you hit the `Devour It !` button it will change the devour status to true in MySQL, which will place the taco in the Devoured Tacoss column. This taco will still be listed in MySQL. For example, if you choose to devour the Chicken Fajita Taco, this is what it looks like in MySQL. Note that the Devour number is a 0 which equals true:
 
 	![Image of MySQL Before Devour](./public/assets/img/mysql1.PNG)
 
 * If then I hit the button to devour it, you can see that the Devour number changes to false, which in binary code is 1:
-<<<<<<< HEAD
-=======
-
-	![Image of MySQL After Devour](./public/assets/img/mysql2.PNG)
->>>>>>> 55d5e40bc8d59e3d7664e0141f160f482ab9d4af
 
 	![Image of MySQL After Devour](./public/assets/img/mysql2.PNG)
 

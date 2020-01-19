@@ -1,19 +1,20 @@
 .card-header {
 	font-size: 2rem;
-	background-color: #ef6c00;
-	font-family: 'Skranji', cursive;
+	background-color: rgb(30, 161, 4);
+	font-family: 'Irish Grover', cursive;
+	text-align: left;
 	
 }
 
 h1 {
 	color: #3C2B1B;
 	font-weight: bold;
-	font-size: 4rem;
+	font-size: 5rem;
 }
 
 h3 {
 	font-size: 2rem;
-	color: #c4beb8;
+	color: #fcecdc8;
 }
 
 h2 {
@@ -21,7 +22,8 @@ h2 {
 }
 
 .card-body {
-	background-color: #e2e1e0;
+	background-color: #fcecdc;
+	
 	/*background-color: rgba(226, 225, 224, 0.1);*/
 	/*filter: alpha(opacity=10);*/
 	/*opacity: 0.5;*/
@@ -29,7 +31,7 @@ h2 {
 
 .card-text {
 	font-size: 17px;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Irish Grover', cursive;
 }
 
 .col-4 img {
@@ -60,8 +62,13 @@ footer {
 
 .card {
 	width: 365px;
+	border-radius: 35px;
 }
 
 .taco-div {
 	padding-bottom: 7px;
+}
+
+.card border {
+	border-radius: 35px;
 }
