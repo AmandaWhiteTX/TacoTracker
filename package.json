@@ -21,7 +21,7 @@
     "body-parser": "^1.18.2",
     "cli": "^1.0.1",
     "dotenv": "^5.0.1",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "express-handlebars": "^3.0.0",
     "handlebars-helper-css": "^0.1.0",
     "heroku": "^7.35.1",
